@@ -35,7 +35,7 @@
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0",
     "sequelize": "^6.29.0",
-    "sqlite3": "^4.0.4",
+    "sqlite3": "^4.2.0",
     "wordcloud": "^1.1.0"
   },
   "devDependencies": {
@@ -57,7 +57,7 @@
     "fs": "0.0.1-security",
     "html-webpack-plugin": "^3.2.0",
     "mini-css-extract-plugin": "^0.4.4",
-    "node-sass": "^7.0.0",
+    "node-sass": "^9.0.0",
     "prettier": "1.14.3",
     "redux-logger": "^3.0.6",
     "rimraf": "^2.6.2",
